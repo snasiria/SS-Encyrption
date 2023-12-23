@@ -1,4 +1,4 @@
-# Assignment 5: Schmidt-Samoa Public Key Cryptography
+# Schmidt-Samoa Public Key Cryptography
 
 ## Short Description:
 
